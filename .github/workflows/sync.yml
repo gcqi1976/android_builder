@@ -1,0 +1,5 @@
+#.github/workflows/sync.yml
+name: Sync Fork
+
+on:
+   push: # push 
